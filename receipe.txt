@@ -3,3 +3,6 @@ welcome to the sharpener
 front-end
 backend
 fullstack
+
+database
+library
